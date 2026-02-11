@@ -28,7 +28,7 @@ Missing values were handled by removing rows containing null values to ensure cl
 
 ---
 
-## 🔍 Part A: Exploratory Data Analysis (EDA)
+## 🔍 Part A: (EDA) Exploratory Data Analysis
 
 The dataset was explored using:
 - Summary statistics
